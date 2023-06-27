@@ -1,0 +1,13 @@
+.navbar_container {
+  background-color: #000;
+  color: #fff;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+
+.navbar_brand {
+  padding: auto;
+  margin-left: 2rem;
+  font-size: 1.3rem;
+}

@@ -1,0 +1,38 @@
+.task_container {
+  margin-top: 5rem;
+  width: 50%;
+  height: 100%;
+}
+
+.task {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  color: #000;
+  width: 70%;
+  height: 10%;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}
+
+.task_row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.task {
+  margin-right: 8px;
+}
+
+.delete_btn {
+  display: inline;
+  background-color: rgb(231, 34, 34);
+  color: #fff;
+  width: 20%;
+  height: 50%;
+  border: none;
+  border-radius: 5px;
+  margin-left: 10%;
+}
